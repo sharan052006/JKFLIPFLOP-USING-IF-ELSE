@@ -71,7 +71,8 @@ module ex7(clk, rst, q);
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![ex-7-w](https://github.com/user-attachments/assets/b002734c-d250-4d46-8955-83d97145668d)
+![Screenshot (85)](https://github.com/user-attachments/assets/74b9c721-8d9e-4fa2-b6b1-b3f2be13a156)
+
 
 **RESULTS**
 JK flipflop is implemented and their functionality is validated
